@@ -5,8 +5,8 @@ PixelChat is a full-stack, real-time chat ecosystem designed with a gamified, co
 ---
 
 ## 🚀 Live Demo & Repository
-* **Frontend Deployment:** `[Insert Link]`
-* **Backend API Gateway:** `[Insert Link]`
+* **Frontend Deployment:** NA
+* **Backend API Gateway:** NA
 
 ---
 
