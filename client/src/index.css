@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Jersey+10&family=Pixelify+Sans:wght@400..700&family=Press+Start+2P&family=Silkscreen:wght@400;700&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+  --font-heading: "Jersey 10", sans-serif;
+  --font-arcade: "Press Start 2P", monospace;
+  --font-pixel: "Silkscreen", monospace;
+  /* --font-dot: "DotGothic16", monospace; */
+  --font-pixelify: "Pixelify Sans", sans-serif;
+  --tracking-tight: -0.2em;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: url("./assets/images/Bg.png")
+  /* background: radial-gradient(circle at center,#1e177c ,#090815) */
+}
